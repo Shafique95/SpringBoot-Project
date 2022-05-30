@@ -22,7 +22,7 @@
 ![profile](https://github.com/Shafique95/SpringMVC-Project/blob/main/adminLogon.png)
 # 10.Invoice
 ![profile](https://github.com/Shafique95/SpringMVC-Project/blob/main/invoice.png)
-# 11. Admin can see available order here
+# 11.Admin can see available order here
 ![profile](https://github.com/Shafique95/SpringMVC-Project/blob/main/orderlist.png)
 # 12.Recent Order Page
 ![profile](https://github.com/Shafique95/SpringMVC-Project/blob/main/orderlist.png)
